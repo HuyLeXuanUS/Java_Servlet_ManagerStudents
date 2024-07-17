@@ -15,4 +15,4 @@ https://www.youtube.com/watch?v=r0He0cPJGl0
 
 ## 3. Báo cáo
 
-Báo cáo đã được đính kèm trong 'src' ở thư mục 'doc'.
+Báo cáo đã được đính kèm ở thư mục 'doc'.
